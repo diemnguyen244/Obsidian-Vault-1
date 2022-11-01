@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "147c5bcf06064247",
+    "type": "split",
+    "children": [
+      {
+        "id": "68fad7473a523aec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b989e730d1f295b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DISPLAY/DISPLAY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fcd37c98cac3c40",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-11-01 16.35.47.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb578aac0df7f6cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e21a49215ecfe6cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35e07ed1d28d4108",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "764491d8984adc9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae81b7688f179865",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "eb05873a44d5bd6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "24a9f4c794550535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "328688bff09b53bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DISPLAY/DISPLAY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ff7dfa9e19fc70f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DISPLAY/DISPLAY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "212ee813d38c370b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d35ec533d13545b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DISPLAY/DISPLAY.md"
+              }
+            }
+          },
+          {
+            "id": "f5aa77941767bc3c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9b989e730d1f295b",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-11-01 16.35.47.excalidraw.md",
+    "POSITION/POSITION.md",
+    "DISPLAY/DISPLAY.md",
+    "CAU TRUC CSS.md"
+  ]
+}

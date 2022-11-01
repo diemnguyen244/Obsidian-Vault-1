@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "9e7ea06fd12390b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc1aeaac1ceb43cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61b51af97faef3ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f4bc59b417f50ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "26065447a4a380c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dcb3f06af4f4a81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5c89c5f3455ff15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b925ab07a37502b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecff9e456de59993",
+    "type": "split",
+    "children": [
+      {
+        "id": "17681344ca5c5479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b577b2f523e78b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07bacc931f056f27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04f39057811d4190",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db1a7e8ce8f8f647",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "61b51af97faef3ae",
+  "lastOpenFiles": [
+    "CSS/COLOR.md",
+    "CSS/ID (IDENTIFIER).md",
+    "CSS/DISPLAY/DISPLAY.md",
+    "CSS/BOX MODEL/ĐƠN VỊ.md",
+    "CSS/SPACING.md",
+    "Screen Shot 2022-10-27 at 11.31.10.png",
+    "CSS/CAU TRUC CSS.md",
+    "CSS/NAVIGATION BAR.md",
+    "CSS/CLASS.md",
+    "CSS/CSS SELECTORS.md"
+  ]
+}
