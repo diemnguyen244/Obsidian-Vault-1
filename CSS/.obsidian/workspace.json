@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DISPLAY/DISPLAY.md",
+                "file": "POSITION/POSITION.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,13 +23,16 @@
             "id": "8fcd37c98cac3c40",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2022-11-01 16.35.47.excalidraw.md"
+                "file": "SPECIFICITY (THỨ TỰ ƯU TIÊN CSS).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb05873a44d5bd6c",
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISPLAY/DISPLAY.md",
+                "file": "SPECIFICITY (THỨ TỰ ƯU TIÊN CSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISPLAY/DISPLAY.md",
+                "file": "SPECIFICITY (THỨ TỰ ƯU TIÊN CSS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DISPLAY/DISPLAY.md"
+                "file": "SPECIFICITY (THỨ TỰ ƯU TIÊN CSS).md"
               }
             }
           },
@@ -155,11 +157,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9b989e730d1f295b",
+  "active": "8fcd37c98cac3c40",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-11-01 16.35.47.excalidraw.md",
+    "CSS SELECTORS.md",
+    "NAVIGATION BAR.md",
+    "COLOR.md",
     "POSITION/POSITION.md",
     "DISPLAY/DISPLAY.md",
+    "Excalidraw/Drawing 2022-11-01 16.35.47.excalidraw.md",
+    "BOX MODEL/ĐƠN VỊ.md",
     "CAU TRUC CSS.md"
   ]
 }
