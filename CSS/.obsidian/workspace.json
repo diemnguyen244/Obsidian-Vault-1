@@ -25,14 +25,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPECIFICITY (THỨ TỰ ƯU TIÊN CSS).md",
+                "file": "POSITION/POSITION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f813905d3e439f22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16d0693e39cb96c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DISPLAY/DISPLAY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa8467f59221c99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GRID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfe2d528d81cc2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACCESSIBILITY (TÍNH TIẾP CẬN).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPECIFICITY (THỨ TỰ ƯU TIÊN CSS).md",
+                "file": "ACCESSIBILITY (TÍNH TIẾP CẬN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPECIFICITY (THỨ TỰ ƯU TIÊN CSS).md",
+                "file": "ACCESSIBILITY (TÍNH TIẾP CẬN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPECIFICITY (THỨ TỰ ƯU TIÊN CSS).md"
+                "file": "ACCESSIBILITY (TÍNH TIẾP CẬN).md"
               }
             }
           },
@@ -157,15 +205,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8fcd37c98cac3c40",
+  "active": "cfe2d528d81cc2b9",
   "lastOpenFiles": [
-    "CSS SELECTORS.md",
-    "NAVIGATION BAR.md",
-    "COLOR.md",
-    "POSITION/POSITION.md",
+    "GRID.md",
     "DISPLAY/DISPLAY.md",
-    "Excalidraw/Drawing 2022-11-01 16.35.47.excalidraw.md",
     "BOX MODEL/ĐƠN VỊ.md",
-    "CAU TRUC CSS.md"
+    "SPACING.md",
+    "NAVIGATION BAR.md",
+    "POSITION/POSITION.md",
+    "PSEUDO CLASS (lop gia).md",
+    "FLEX BOX & GRID.md",
+    "Untitled.md",
+    "SPECIFICITY (THỨ TỰ ƯU TIÊN CSS).md"
   ]
 }

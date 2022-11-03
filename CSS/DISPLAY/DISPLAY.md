@@ -5,4 +5,7 @@
 4. inline-block: mix giữa inline và block, có thể apply padding, margin
 
 * Text-align chỉ áp dụng cho *
+* *
+* **
+* 
 
