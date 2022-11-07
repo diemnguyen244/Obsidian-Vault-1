@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "adc70e78366eb1ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b1b33861fa81b9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fc718422be18c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS- REACT-NODE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd13c70336ddefb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CÁC CÁCH DÙNG JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dec957df0cce7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EVENT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db031d4cfb7344a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CÁCH STYLE IN JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c42fcf65f601df2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GET ELEMENT IN JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b3a8660f5d492ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "**KIỂU DỮ LIỆU**.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d908042e2349dd85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CÁCH STYLE IN JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0d71d0eb52110bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b3555142bb51e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec3203d2ac9c7b1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59b9152014e960c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb417ed33fd6342f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59e4a09e72c9b05a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ece340e6277e6d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5947db5ffb45a6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CÁCH STYLE IN JS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "095a5ce49b2b3cd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CÁCH STYLE IN JS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9203e3e3062916d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d5bf94d4adf23e31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CÁCH STYLE IN JS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d908042e2349dd85",
+  "lastOpenFiles": [
+    "CÁC CÁCH DÙNG JS.md",
+    "BIẾN (VARIABLE).md",
+    "**KIỂU DỮ LIỆU**.md",
+    "GET ELEMENT IN JS.md",
+    "CÁCH STYLE IN JS.md",
+    "EVENT.md",
+    "JS- REACT-NODE.md"
+  ]
+}
