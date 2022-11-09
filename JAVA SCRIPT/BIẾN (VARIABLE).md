@@ -11,6 +11,7 @@ a=1;
 Console.log(a);
 
 -   **Let**: y hệt var. Nhung khi khai báo 2 biến giống nhau nó sẽ báo lỗi: **_KHÔNG ĐƯỢC KHAI BÁO CÙNG 1 TÊN BIẾN 2 LẦN, NHƯNG CÓ THỂ GÁN 2 GIÁ TRỊ KHÁC NHAU_**
+- *LET CÓ THỂ THAY ĐỔI GIÁ TRỊ*
 
 LET ĐƯỢC KHUYẾN KHÍCH DÙNG HƠN A.
 
@@ -21,7 +22,7 @@ a=1;
 Console.log(a);
 
 
--   **Const: vd const a=3.14; (dùng để khai báo các biến cố định, không thay đổi**
+-   **Const: vd const a=3.14; (dùng để khai báo các biến cố định, *không thay đổi GIÁ TRỊ**
 
 **Let r=10;**
 
