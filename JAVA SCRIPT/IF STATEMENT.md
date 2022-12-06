@@ -1,6 +1,9 @@
 **Ngữ pháp cơ bản:**
 *If(condition){statement};
 
+**PHÂN BIỆT KHI NÀO DÙNG IF, KHI NÀO DÙNG SWITCH:
+Khi có sự so sánh các giá trị dùng If
+Khi cho trước giá trị thì dùng switch (khi có 3 trường hợp trở lên, nếu dưới 3 TH thì dung If)
 Ý là nếu condittion là true -> dòng code ở statement sẽ chạy
 
 VI DU:

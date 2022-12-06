@@ -1,7 +1,9 @@
 
 **Kiểu cơ bản:**
 
--   **Number**
+-   **Number**:
+***cách khai báo:
+var million = 1000000 hoặc var milllion = 1e6 ( 2.000.000.000 = 2e9)
 -   **String:** khi viết chữ trong cặp dấu nháy đơn hoặc đôi. Vd: công.log (“Helle  ” + ‘World’);
 
 Methods:
@@ -24,3 +26,5 @@ Methods:
 
 function a (pizza, pasta, hamburger) -> pizza, pasta, hamburger: tham số
 console.log(a(3,6,9)); 3,6,9 -> đối số
+
++ **COMPLEX: ***ARRAY VÀ OBJECT

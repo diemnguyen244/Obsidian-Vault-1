@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "adc70e78366eb1ac",
+    "id": "ac08f3a15d8420ba",
     "type": "split",
     "children": [
       {
-        "id": "3206ef9cc2bb0e3a",
+        "id": "87a913c0cd0d30c5",
         "type": "tabs",
         "children": [
           {
-            "id": "0dadd6b4be9f38c9",
+            "id": "46982b90323930d1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d0d71d0eb52110bd",
+    "id": "17df41d9f04d4a22",
     "type": "split",
     "children": [
       {
-        "id": "0b3555142bb51e8b",
+        "id": "39646063e2de7506",
         "type": "tabs",
         "children": [
           {
-            "id": "ec3203d2ac9c7b1f",
+            "id": "e70047efb73b6edc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "59b9152014e960c7",
+            "id": "bebc7686ac3b6ab5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "eb417ed33fd6342f",
+            "id": "36f6d86a4275b5c8",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "59e4a09e72c9b05a",
+    "id": "7f31b5a53898904a",
     "type": "split",
     "children": [
       {
-        "id": "2ece340e6277e6d4",
+        "id": "9d1b57a2dd45ba49",
         "type": "tabs",
         "children": [
           {
-            "id": "a5947db5ffb45a6f",
+            "id": "598b66677fa54353",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "095a5ce49b2b3cd9",
+            "id": "d48774e5d2073108",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "9203e3e3062916d0",
+            "id": "c09523082084246d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "d5bf94d4adf23e31",
+            "id": "88882cffd9b5ec7e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -128,17 +128,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0dadd6b4be9f38c9",
+  "active": "46982b90323930d1",
   "lastOpenFiles": [
-    "2022-11-28.md",
-    "CLASS JS.md",
-    "SETTIMEOUT, SETINTERVAL.md",
-    "6 GIÁ TRỊ FALSY IN JS.md",
-    "BIẾN (VARIABLE).md",
-    "CÁC BƯỚC.md",
-    "EVENT.md",
-    "KIỂU DỮ LIỆU.md",
-    "OBJECT.md",
-    "METHODS- BUOI -6.md"
+    "Untitled.md"
   ]
 }

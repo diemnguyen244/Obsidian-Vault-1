@@ -1,35 +1,96 @@
 {
   "main": {
-    "id": "adc70e78366eb1ac",
+    "id": "a060b4d39d05ae9c",
     "type": "split",
     "children": [
       {
-        "id": "3206ef9cc2bb0e3a",
+        "id": "724cb741c869413d",
         "type": "tabs",
         "children": [
           {
-            "id": "0dadd6b4be9f38c9",
+            "id": "98f5a380b8733b55",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "0117e386f443af85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CÁC BƯỚC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "348a0f0949e3f15a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setting react.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63f7edb0f6622a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setting react.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e6e674b571654f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setting react.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7286054bc374b429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setting react.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d0d71d0eb52110bd",
+    "id": "2076f89394e55075",
     "type": "split",
     "children": [
       {
-        "id": "0b3555142bb51e8b",
+        "id": "22f1e5b453c75292",
         "type": "tabs",
         "children": [
           {
-            "id": "ec3203d2ac9c7b1f",
+            "id": "501cba58e276cc0a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +100,7 @@
             }
           },
           {
-            "id": "59b9152014e960c7",
+            "id": "e657c3d4c743fb87",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +115,7 @@
             }
           },
           {
-            "id": "eb417ed33fd6342f",
+            "id": "695d7c0cf7e88834",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,22 +126,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "59e4a09e72c9b05a",
+    "id": "35d5902d9f235071",
     "type": "split",
     "children": [
       {
-        "id": "2ece340e6277e6d4",
+        "id": "dde1f6c0140c3fa0",
         "type": "tabs",
         "children": [
           {
-            "id": "a5947db5ffb45a6f",
+            "id": "e200a5a6979ff58c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "setting react.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +154,19 @@
             }
           },
           {
-            "id": "095a5ce49b2b3cd9",
+            "id": "630fd671ef5d9cdc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "setting react.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9203e3e3062916d0",
+            "id": "e0ef0df445efdd77",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +177,13 @@
             }
           },
           {
-            "id": "d5bf94d4adf23e31",
+            "id": "d41a116b575440c9",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "setting react.md"
+              }
             }
           }
         ]
@@ -128,17 +193,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0dadd6b4be9f38c9",
+  "active": "7286054bc374b429",
   "lastOpenFiles": [
-    "2022-11-28.md",
-    "CLASS JS.md",
-    "SETTIMEOUT, SETINTERVAL.md",
-    "6 GIÁ TRỊ FALSY IN JS.md",
-    "BIẾN (VARIABLE).md",
+    "CREATE ELEMENT.md",
+    "setting react.md",
+    "SPA & MPA.md",
+    "GUI & CLI.md",
     "CÁC BƯỚC.md",
-    "EVENT.md",
-    "KIỂU DỮ LIỆU.md",
-    "OBJECT.md",
-    "METHODS- BUOI -6.md"
+    "CÁC BƯỚC TRÊN JS.md"
   ]
 }
